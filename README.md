@@ -14,8 +14,8 @@
 - base_lr:0.1 (cosine learning rate)
 
 ## 模型核心
-![HS_module](https://github.com/2anchao/HS_resnet18/tree/main/pictures/HS_module.png)       
-![compare](https://github.com/2anchao/HS_resnet18/tree/main/pictures/compare.png)       
+<div align=center><img src="https://github.com/2anchao/HS_resnet18/tree/main/pictures/HS_module.png" width="400" height="200" /></div>.   
+<div align=center><img src="https://github.com/2anchao/HS_resnet18/tree/main/pictures/compare.png" width="400" height="200" /></div>.   
 
 ## 其它
 - 基本上都是参考代码：https://github.com/bobo0810/HS-ResNet 
