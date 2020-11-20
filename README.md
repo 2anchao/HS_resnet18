@@ -1,8 +1,8 @@
 # HS_resnet18
 
 ## 参考
-# [paper](https://arxiv.org/abs/2010.07621)
-# [HS-ResNet]https://github.com/bobo0810/HS-ResNet
+#### [paper](https://arxiv.org/abs/2010.07621)
+#### [HS-ResNet](https://github.com/bobo0810/HS-ResNet)
 ## 环境
 - python
 - pytorch
@@ -14,6 +14,8 @@
 - base_lr:0.1 (cosine learning rate)
 
 ## 模型核心
+![HS_module](https://github.com/2anchao/HS_resnet18/tree/main/pictures/HS_module.png)       
+![compare](https://github.com/2anchao/HS_resnet18/tree/main/pictures/compare.png)       
 
 ## 其它
 - 基本上都是参考代码：https://github.com/bobo0810/HS-ResNet 
